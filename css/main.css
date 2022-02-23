@@ -166,6 +166,11 @@ body {
     flex-direction: column;
     margin-right: .8rem;
 }
+.name h1 {
+    color: white;
+    opacity: .7;
+    font-size: .8rem;
+}
 
 .name h2 {
     color: white;
@@ -183,7 +188,7 @@ body {
     margin-left: 2rem;
 }
 
-.Daniel_Clifford .secondDiv h3  {
+.Daniel_Clifford .secondDiv h2  {
     width: 91.5%;
     font-size: 1.2rem;
     font-weight: 300;
@@ -193,7 +198,7 @@ body {
 }
 
 @media (min-width: 1200) {
-.Daniel_Clifford .secondDiv h3  {
+.Daniel_Clifford .secondDiv h2  {
     width: 95%;
     font-size: 1rem;
     font-weight: 300;
